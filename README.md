@@ -20,14 +20,18 @@
 O PizzaTravel é um aplicação desenvolvida com as tecnologias mais utilizadas do mercado, e tem como 
 objetivo auxiliar os garçons e os cozinheiros de uma pizzaria
 
+
+## :computer: Front - End
 <div align="center">
-    ## :computer: Front - End  
+  <img  width="700px" src="https://github.com/CrisPer12/travelPizza/blob/master/frontEnd.gif?raw=true" />
 </div>
 
-
-
 ## :mobile_phone_off: Mobile
-O CodePlataform é um aplicação de aulas para um evento, desenvolvida durante o ignateLab da Rocketseat.
+
+<div align="center">
+  <img  width="700px" src="https://github.com/CrisPer12/travelPizza/blob/master/mobile.gif?raw=true" />
+</div>
+.
 
 <!-- ## :art: Layout
 Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma<a> atravês <a href="https://www.figma.com/file/j4bK1YK93jEbuxfSvrKf1K/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=24%3A2">desse link<a>. -->
