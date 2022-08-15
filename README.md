@@ -12,8 +12,8 @@
 
 
 <div align="center">
-  <img  width="700px" src="https://github.com/CrisPer12/code-platform/blob/master/home.JPG" />
-  <img  width="700px" src="https://github.com/CrisPer12/code-platform/blob/master/auka.JPG" />
+  <img  width="700px" src="https://github.com/CrisPer12/travelPizza/blob/master/pedido1.JPG?raw=true" />
+  <img  width="700px" src="https://github.com/CrisPer12/travelPizza/blob/master/detail%20Pedidos.JPG?raw=true" />
 </div>
 
 ## :page_facing_up: Descrição
