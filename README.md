@@ -39,10 +39,10 @@ VocÃª pode acessar o Layout pelo <a href="https://www.figma.com">Figma<a> atravÃ
 Este projeto foi desenvolvido com as seguintes tecnologias
 
 - [React.js](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [NodeJs](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [ViteJs](https://vitejs.dev/guide/)
-- [Phosphor-Icons](https://phosphoricons.com/)
-- [GraphCMS](https://graphcms.com/)
+- [Expo](https://expo.dev/)
 
 ## :clipboard: Funcionalidades
 - [x] Se inscrever no evento.
