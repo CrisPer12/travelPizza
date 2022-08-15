@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img width="400px" src="https://github.com/CrisPer12/code-platform/blob/master/Group%201.png" />
-  <br />
+  Pizza Travel
 </h1>
 <p align="center">
   <a href="#page_facing_up-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
