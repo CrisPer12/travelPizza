@@ -17,7 +17,8 @@
 </div>
 
 ## :page_facing_up: Descrição
-O CodePlataform é um aplicação de aulas para um evento, desenvolvida durante o ignateLab da Rocketseat.
+O PizzaTravel é um aplicação desenvolvida com as tecnologias mais utilizadas do mercado, e tem como 
+objetivo auxiliar os garçons e os cozinheiros de um pizzaria
 
 ## :page_facing_up: Front - End
 O CodePlataform é um aplicação de aulas para um evento, desenvolvida durante o ignateLab da Rocketseat.
