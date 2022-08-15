@@ -29,7 +29,7 @@ objetivo auxiliar os garçons e os cozinheiros de uma pizzaria
 ## :mobile_phone_off: Mobile
 
 <div align="center">
-  <img  width="700px" src="https://github.com/CrisPer12/travelPizza/blob/master/mobile.gif?raw=true" />
+  <img  width="300px" src="https://github.com/CrisPer12/travelPizza/blob/master/mobile.gif?raw=true" />
 </div>
 .
 
