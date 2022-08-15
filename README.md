@@ -22,7 +22,7 @@ objetivo auxiliar os garçons e os cozinheiros de uma pizzaria
 
 ## :computer: Front - End
 
-## :mobile: Mobile
+## :mobile_phone_off: Mobile
 O CodePlataform é um aplicação de aulas para um evento, desenvolvida durante o ignateLab da Rocketseat.
 
 <!-- ## :art: Layout
