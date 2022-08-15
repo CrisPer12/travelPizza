@@ -19,6 +19,12 @@
 ## :page_facing_up: Descrição
 O CodePlataform é um aplicação de aulas para um evento, desenvolvida durante o ignateLab da Rocketseat.
 
+## :page_facing_up: Front - End
+O CodePlataform é um aplicação de aulas para um evento, desenvolvida durante o ignateLab da Rocketseat.
+
+## :page_facing_up: Mobile
+O CodePlataform é um aplicação de aulas para um evento, desenvolvida durante o ignateLab da Rocketseat.
+
 <!-- ## :art: Layout
 Você pode acessar o Layout pelo <a href="https://www.figma.com">Figma<a> atravês <a href="https://www.figma.com/file/j4bK1YK93jEbuxfSvrKf1K/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=24%3A2">desse link<a>. -->
 
