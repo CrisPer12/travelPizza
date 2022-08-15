@@ -20,7 +20,11 @@
 O PizzaTravel é um aplicação desenvolvida com as tecnologias mais utilizadas do mercado, e tem como 
 objetivo auxiliar os garçons e os cozinheiros de uma pizzaria
 
-## :computer: Front - End
+<div align="center">
+    ## :computer: Front - End  
+</div>
+
+
 
 ## :mobile_phone_off: Mobile
 O CodePlataform é um aplicação de aulas para um evento, desenvolvida durante o ignateLab da Rocketseat.
