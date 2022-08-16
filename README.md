@@ -45,11 +45,16 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 - [Expo](https://expo.dev/)
 
 ## :clipboard: Funcionalidades
-- [x] Se inscrever no evento.
-- [x] Lista de Aulas não disponíveis.
-- [x] Lista de Aulas disponíveis.
-- [x] Acesso a material complementar.
-- [x] Acesso a desafios.
+- [x] Criar Categorias de produtos para serem vendidos na pizzaria.
+- [x] Adicionar produtos ao catálogo.
+- [x] Listar pedidos na interface do FrontEnd.
+- [x] Concluir Pedido pelo FrontEnd.
+- [x] Abrir um mesa(pedido) pela aplicação MOBILE.
+- [x] Listar todos os produtos cadastrados.
+- [x] Adicionar Produtos a um pedido.
+- [x] Remover Produtos de um Pedido.
+- [x] Fechar uma mesa.
+- [x] Concluir um pedido, e enviar para cozinha.
 
 
 ## :closed_book: Instalação
@@ -60,21 +65,43 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório.
-$ git clone https://github.com/CrisPer12/code-platform.git
+$ git clone https://github.com/CrisPer12/travelPizza.git
 
-# Vá para a pasta code-platform
-$ cd code-platform
+# Vá para a pasta backend
+$ cd backend
+
+# Instale as dependências
+$ npm install
+
+# Vá para a pasta frontend
+$ cd frontend
+
+# Instale as dependências
+$ npm install
+
+# Vá para a pasta mobile
+$ cd mobile
 
 # Instale as dependências
 $ npm install 
 
-# Execute aplicação
-$ npm run dev
+# Execute aplicação na pasta backend
+$ yarn dev
 
-# O app vai está rodando na porta 3000 - acesse <http://localhost:3000>
+# Execute aplicação na pasta frontend
+$ yarn dev
+
+# Execute aplicação na pasta mobile
+$ expo start
+
+# O frontend vai estar rodando na porta 3000 - acesse <http://localhost:3000>
+
+# O backend vai estar rodando na porta 3333 - acesse <http://localhost:3333>
+
+# O mobile vai estar rodando na porta 19006 - acesse <http://localhost:19006>
+
+
 ```
-
-
 
 ## :memo: Licença
 
